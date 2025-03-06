@@ -1,6 +1,9 @@
 # CPE 367 Final Lab
 ## Members: Timmy Chin, Megan Tseng, Myu
 
+### Run Code
+python3 cpe367_dtmf.py <file.txt>
+
 ### Slow Input:
 
 Error Rate: 7.3%
